@@ -4,7 +4,7 @@ export const INITIAL_GAMER_PROFILE: GamerProfile = {
   gamerTag: 'Valkyrie // Alejo',
   realName: 'Alejandro Canache',
   bio: 'Main Duelist & Controller en Valorant. Directos diarios de ranked, torneos de fin de semana y partidas con la squad de Discord.',
-  avatarUrl: 'https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&w=400&q=80',
+  avatarUrl: '/avatar.png',
   bannerUrl: '',
   region: 'LATAM Sur · Servidor Santiago / Miami',
   teamOrClan: 'VALKYRIE ESPORTS // CAPTAIN',
