@@ -1,0 +1,6 @@
+{
+  "name": "NexusGamer Hub",
+  "description": "Perfil y hub de enlaces para gamers y streamers. Conecta tus canales de Twitch, Discord, Steam, YouTube, redes y specs de juego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
